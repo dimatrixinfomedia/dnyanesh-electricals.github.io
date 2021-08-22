@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Dnyanesh Electricals - Dnyanesh Electricals</title>
+	<subtitle type="text">Rio Eletric is a licensed arizona electrical contractor available for residential and commercial projects.</subtitle>
+	<link rel="alternate" type="text/html" href="https://rioelectric.com"/>
+	<id>https://rioelectric.com/component/tags/tag/remodel</id>
+	<updated>2021-08-22T19:51:35+00:00</updated>
+	<author>
+		<name>Dnyanesh Electricals</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://rioelectric.com/component/tags/tag/remodel?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Georgia Ave Addition and Remodel</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/blog/9-residential/38-georgia-ave-addition-and-remodel"/>
+		<published>2016-10-28T03:09:00+00:00</published>
+		<updated>2016-10-28T03:09:00+00:00</updated>
+		<id>https://rioelectric.com/blog/9-residential/38-georgia-ave-addition-and-remodel</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<summary type="html">&lt;p&gt;This standard 2 story track home was turned into a beautiful custom home! Although nothing was changed structurally on this home the cosmetic upgrades make this look like a brand new custom residence. We provided all of the electrical upgrades on this recent Gilbert remodel and we love how it turned out.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;This standard 2 story track home was turned into a beautiful custom home! Although nothing was changed structurally on this home the cosmetic upgrades make this look like a brand new custom residence. We provided all of the electrical upgrades on this recent Gilbert remodel and we love how it turned out.&lt;/p&gt;
+</content>
+		<category term="Georgia Ave Addition and Remodel" />
+	</entry>
+	<entry>
+		<title>Taylor Residence Gilbert Remodel</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/blog/9-residential/14-taylor-residence-gilbert-remodel"/>
+		<published>2016-08-16T03:09:08+00:00</published>
+		<updated>2016-08-16T03:09:08+00:00</updated>
+		<id>https://rioelectric.com/blog/9-residential/14-taylor-residence-gilbert-remodel</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<summary type="html">&lt;p&gt;This standard 2 story track home was turned into a beautiful custom home! Although nothing was changed structurally on this home the cosmetic upgrades make this look like a brand new custom residence. We provided all of the electrical upgrades on this recent Gilbert remodel and we love how it turned out.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;This standard 2 story track home was turned into a beautiful custom home! Although nothing was changed structurally on this home the cosmetic upgrades make this look like a brand new custom residence. We provided all of the electrical upgrades on this recent Gilbert remodel and we love how it turned out.&lt;/p&gt;
+</content>
+		<category term="Taylor Residence Gilbert Remodel" />
+	</entry>
+</feed>

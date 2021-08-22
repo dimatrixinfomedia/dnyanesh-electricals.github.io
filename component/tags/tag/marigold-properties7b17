@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Dnyanesh Electricals - Dnyanesh Electricals</title>
+	<subtitle type="text">Rio Eletric is a licensed arizona electrical contractor available for residential and commercial projects.</subtitle>
+	<link rel="alternate" type="text/html" href="https://rioelectric.com"/>
+	<id>https://rioelectric.com/component/tags/tag/marigold-properties</id>
+	<updated>2021-08-22T19:51:46+00:00</updated>
+	<author>
+		<name>Dnyanesh Electricals</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://rioelectric.com/component/tags/tag/marigold-properties?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Kachina #1 Remodel</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/blog/9-residential/6-kachina-1-addition-remodel"/>
+		<published>2016-08-16T03:09:08+00:00</published>
+		<updated>2016-08-16T03:09:08+00:00</updated>
+		<id>https://rioelectric.com/blog/9-residential/6-kachina-1-addition-remodel</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<summary type="html">&lt;p&gt;This Kachina home is located in the Arcadia district in Phoenix. We worked with Marigold Properties to provide all of the electrical services on this large addition/remodel. After all of the work was completed this home doubled in size.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;This Kachina home is located in the Arcadia district in Phoenix. We worked with Marigold Properties to provide all of the electrical services on this large addition/remodel. After all of the work was completed this home doubled in size.&lt;/p&gt;
+</content>
+		<category term="Kachina #1 Remodel" />
+	</entry>
+	<entry>
+		<title>Kachina #2 Remodel</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/blog/9-residential/36-kachina-2-remodel"/>
+		<published>2016-10-26T07:00:00+00:00</published>
+		<updated>2016-10-26T07:00:00+00:00</updated>
+		<id>https://rioelectric.com/blog/9-residential/36-kachina-2-remodel</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<summary type="html">&lt;p&gt;We had the opportunity to work again with Marigold Properties to provide all of the electrical services on this large remodel located in the Arcadia district in Phoenix. This home is located on the same street as their previous &lt;a href=&quot;https://rioelectric.com/blog/9-residential/6-kachina-1-addition-remodel&quot; target=&quot;_blank&quot;&gt;Kachina remodel&lt;/a&gt;.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;We had the opportunity to work again with Marigold Properties to provide all of the electrical services on this large remodel located in the Arcadia district in Phoenix. This home is located on the same street as their previous &lt;a href=&quot;https://rioelectric.com/blog/9-residential/6-kachina-1-addition-remodel&quot; target=&quot;_blank&quot;&gt;Kachina remodel&lt;/a&gt;.&lt;/p&gt;
+</content>
+		<category term="Kachina #2 Remodel" />
+	</entry>
+</feed>

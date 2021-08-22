@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Projects - Dnyanesh Electricals</title>
+	<subtitle type="text">Rio Eletric is a licensed arizona electrical contractor available for residential and commercial projects.</subtitle>
+	<link rel="alternate" type="text/html" href="https://rioelectric.com"/>
+	<id>https://rioelectric.com/rio-electric-projects</id>
+	<updated>2021-08-22T19:49:29+00:00</updated>
+	<author>
+		<name>Dnyanesh Electricals</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://rioelectric.com/rio-electric-projects?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Panel Change Outs</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/32-panel-change-outs"/>
+		<published>2016-10-07T16:55:03+00:00</published>
+		<updated>2016-10-07T16:55:03+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/32-panel-change-outs</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Misc Lighting</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/31-misc-lighting"/>
+		<published>2016-10-07T16:50:49+00:00</published>
+		<updated>2016-10-07T16:50:49+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/31-misc-lighting</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Heber Cabin New Build</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/30-heber-cabin-new-build"/>
+		<published>2016-10-07T16:34:39+00:00</published>
+		<updated>2016-10-07T16:34:39+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/30-heber-cabin-new-build</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Exterior Lighting</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/29-exterior-lighting"/>
+		<published>2016-10-07T16:31:24+00:00</published>
+		<updated>2016-10-07T16:31:24+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/29-exterior-lighting</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Commercial Lighting</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/28-commercial-lighting"/>
+		<published>2016-10-07T16:28:50+00:00</published>
+		<updated>2016-10-07T16:28:50+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/28-commercial-lighting</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Ceiling Fans</title>
+		<link rel="alternate" type="text/html" href="https://rioelectric.com/rio-electric-projects/27-ceiling-fans"/>
+		<published>2016-10-07T16:24:47+00:00</published>
+		<updated>2016-10-07T16:24:47+00:00</updated>
+		<id>https://rioelectric.com/rio-electric-projects/27-ceiling-fans</id>
+		<author>
+			<name>Dnyanesh Electricals</name>
+		</author>
+		<category term="Gallery" />
+	</entry>
+</feed>
